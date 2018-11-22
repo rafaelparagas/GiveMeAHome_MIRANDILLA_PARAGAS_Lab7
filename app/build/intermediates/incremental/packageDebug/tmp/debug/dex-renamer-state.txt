@@ -1,0 +1,4 @@
+#Thu Nov 22 21:20:58 CST 2018
+base.0=C\:\\Users\\Rafael\\Desktop\\Desktop\\115\\wpr2app\\GiveMeAHome_MIRANDILLA_PARAGAS_Lab7\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
